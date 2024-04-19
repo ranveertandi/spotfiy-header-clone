@@ -1,0 +1,205 @@
+* {
+    margin: 0px;
+    border: border-box;
+    box-sizing: border-box;
+}
+
+.border {
+    border: 5px solid transparent;
+}
+
+.border:hover {
+    border: 5px solid wheat;
+}
+
+.box {
+    height: 250px;
+    /* width: 1400px; */
+    background-color: rgba(55, 8, 116, 0.808);
+    display: flex;
+
+
+}
+
+.box-first {
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 7px;
+    background-color: rgb(178, 145, 221);
+    border-spacing: 30px;
+
+}
+
+.hert {
+    height: 10px;
+    width: 20px;
+    margin: 45%;
+    font-size: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+
+.playbox {
+    height: 30px;
+    width: 59px;
+    margin-left: .8rem;
+    margin-top: .99rem;
+    color: rgb(220, 232, 243);
+    font-size: 19pt;
+    font-weight: 100;
+}
+
+.like {
+    height: 100px;
+    width: 600px;
+    margin-top: 60px;
+    /* border: 2px solid ; */
+    font-size: 32pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(220, 232, 243);
+
+}
+
+.ranveer {
+    height: 60px;
+    width: 120px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 370px;
+    font-size: 2rem;
+
+
+}
+
+/* midel part */
+
+.midel {
+    background-color: rgb(35, 35, 75);
+    height: 6rem;
+    display: flex;
+
+}
+
+.playbutton {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    font-size: 4rem;
+}
+
+.shuffle {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+}
+
+.downlod {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+    margin-left: 20px;
+}
+
+.search {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+    margin-left: 640px;
+}
+
+.album {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+    margin-left: 2rem;
+}
+
+.menu {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;
+    margin-left: 2rem;
+}
+
+.midelsecond {
+
+    background-color: rgb(44, 44, 87);
+    height: 800px;
+
+}
+
+.placeholder {
+    margin-left: 24rem;
+    width: 40%;
+    height: 40px;
+}
+
+/* bottem */
+.container {
+    height: 324px;
+    width: 700px;
+    border: 3px solid black;
+    margin: 67px 133px;
+    margin-left: 300px;
+    /* background-color: rgb(44, 44, 87); */
+    color:rgb(137, 137, 223);
+}
+.audio{
+    font-size: 32pt;
+    float:inline-start;
+}
+.au{
+    background-color: rgb(233, 242, 250);
+    width: 50%;
+    color: aqua;
+    font-size: 29pt;
+    /* margin-left: 60px; */
+    float:right;
+
+}
+
+/* foother */
+.instagram{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 34pt;
+    height: 100px;
+    color: palevioletred;
+    border: 3px solid transparent;
+}
+#ra{
+    color:  rgb(220, 232, 243);
+    padding-left: 30px;
+}
+.ann{
+  text-decoration: none;
+}
